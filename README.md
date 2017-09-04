@@ -1,2 +1,3 @@
-# photo-site-perl
+# WWW::PhotoSite
+
 Static photography website generator
